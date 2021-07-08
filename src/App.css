@@ -1,0 +1,133 @@
+
+#header {
+  background-color: hotpink;
+  font-size: 300%;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 250%;
+  text-align: center;
+  background-color: bisque;
+}
+
+#name_1,
+#phone,
+#company,
+#university {
+  margin: 0% 0% 0% 25%;
+  width: 30%;
+  padding: 8px;
+  
+}
+
+#name_2,
+#email,
+#position,
+#major {
+  margin: 1% 0% 0% 2%;
+  width: 30%;
+  padding: 8px;
+}
+
+#btn1 {
+  margin: 1% 0% 0% 75%;
+  width: 8%;
+  padding: 0.5%;
+  background-color: rgb(75, 236, 0);
+  color: white;
+  font-size: 130%;
+ 
+}
+
+#l1 {
+  margin: 0% 0% 0% 21%;
+}
+
+#l1_edu {
+  margin: 0% 0% 0% 20%;
+}
+
+#l2 {
+  margin: 0% 0% 0% 5.5%;
+}
+
+#l3 {
+  margin: 0% 0% 0% 17%;
+}
+
+#date {
+  padding: 8px;
+  margin: 1% 0% 0% 1%;
+}
+
+#respons {
+  padding: 7px;
+  margin: 1% 0% 0% 1%;
+  width: 64%;
+  height: 50%;
+  resize: none;
+}
+
+#details {
+  padding: 7px;
+  margin: 1% 0% 0% 4.5%;
+  width: 64%;
+  height: 40%;
+  resize: none;
+}
+
+#btn2 {
+  margin: 0% 0% 0% 75%;
+  width: 15%;
+  padding: 0.5%;
+  background-color: rgb(255, 165, 0);
+  color: white;
+  font-size: 100%;
+}
+
+#btn3 {
+  margin-left: 49%;
+  padding: 1%;
+  background-color: rgb(231, 228, 222);
+  color: black;
+  font-size: 120%;
+}
+
+
+
+#display {
+  margin: 2%;
+}
+
+#dis-city {
+  text-align: left;
+}
+
+#resume,
+#workExp,
+#education {
+  padding: 1%;
+  margin: 1%;
+  background-color: rgb(189, 218, 189);
+}
+
+.resume{
+  text-align: center;
+}
+
+h3 {
+  margin: 0% 0%;
+  font-size: x-large;
+}
+
+p {
+  margin: 0% 0%;
+  font-weight: bold;
+}
+
+h1 {
+  margin: 1% 0%;
+  color:rgb(50, 0, 73);
+}
